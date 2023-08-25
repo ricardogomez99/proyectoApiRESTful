@@ -8,7 +8,8 @@ Realización de una Api RESTful para operaciónes CRUD utilizando la base de dat
 
 ![image](https://github.com/ricardogomez99/proyectoApiRESTful/assets/92341478/d62031e0-262f-4368-aebc-e76763380081)
 
-![image](https://github.com/ricardogomez99/proyectoApiRESTful/assets/92341478/6a316325-e254-49d9-b920-dc7630034018)
+![image](https://github.com/ricardogomez99/proyectoApiRESTful/assets/92341478/15a0668d-403a-4e2f-9c35-4d5cef620d05)
+
 
 
 
